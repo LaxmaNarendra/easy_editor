@@ -1,6 +1,12 @@
-# easy_editor
-aplikasi image editor sederhana menggunakan PyQt dan PIL
+# Easy Editor
 
-## fitur
-1. tombol untuk memilih folder yang berisikan images
-2. editing sederhana seperti ubah image ke black & white, buat sharp, turn left dan seterusnya...
+**Easy Editor** adalah aplikasi editor gambar sederhana yang dibangun menggunakan pustaka **PyQt** dan **PIL** (Python Imaging Library / Pillow).
+
+## Fitur Utama
+
+*   **Pilih Folder**: Tombol khusus untuk memilih folder yang berisi kumpulan gambar.
+*   **Editing Sederhana**: Pilihan manipulasi gambar dasar, seperti:
+    *   Mengubah gambar menjadi hitam putih (Black & White).
+    *   Mempertajam kualitas gambar (Sharp).
+    *   Memutar gambar ke kiri (Turn Left).
+    *   Dan fitur pengeditan dasar lainnya.
